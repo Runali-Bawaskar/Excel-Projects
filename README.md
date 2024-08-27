@@ -18,7 +18,7 @@ This project involves creating an interactive **Road Accident Dashboard** using 
 ![Road Accident Dashboard Preview](https://via.placeholder.com/800x400.png?text=Road+Accident+Dashboard+Preview)
 
 ### Data Source
-- The data used in this dashboard was sourced from [open government datasets](#). It includes details on accidents, locations, dates, and the severity of incidents.
+- The data used in this dashboard was sourced from open government datasets. It includes details on accidents, locations, dates, and the severity of incidents.
 
 ### Installation & Usage
 1. **Download the File**: Clone this repository or download the `Road_Accident_Dashboard.xlsx` file directly.
