@@ -4,7 +4,7 @@ Welcome to the **Excel Projects** repository! This repository showcases a collec
 
 ## Projects Overview
 
-### 1. [Road Accident Dashboard](./Road_Accident_Dashboard)
+### 1. [Road Accident Dashboard](https://github.com/Runali-Bawaskar/Excel-Projects/tree/main/Road%20Accident%20Dashboard)
 An interactive dashboard that analyzes road accident data, offering insights into accident trends, locations, and causes. It includes dynamic charts and filterable reports to help users explore the data in depth.
 
 ## Tools and Techniques
