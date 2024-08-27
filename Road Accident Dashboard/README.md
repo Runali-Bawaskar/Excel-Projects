@@ -13,7 +13,7 @@ This project involves creating an interactive **Road Accident Dashboard** using 
 - **Power Query**: Used for data cleaning and transformation.
 
 ### Dashboard Preview
-![Road Accident Dashboard Preview](https://via.placeholder.com/800x400.png?text=Road+Accident+Dashboard+Preview)
+![Road Accident Dashboard Preview](https://github.com/Runali-Bawaskar/Excel-Projects/blob/main/Road%20Accident%20Dashboard/Dashboard%20preview.png)
 
 ### Data Source
 - The data used in this dashboard was sourced from open government datasets. It includes details on accidents, locations, dates, and the severity of incidents.
